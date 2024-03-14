@@ -1,2 +1,13 @@
-# Tracker
-This tool will allow you to extract phone numbers based on inputs. You will also have the opportunity to memorize the results obtained 
+📲 pip install requests
+
+📲 pip install colorama
+
+📲 pip install google
+
+📲 git clone https://github.com/VikingTerminal/Tracker
+
+📲 cd Tracker
+
+📲 chmod +x tracker.py
+
+📲 python tracker.py
